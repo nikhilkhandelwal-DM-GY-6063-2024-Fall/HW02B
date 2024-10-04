@@ -1,8 +1,8 @@
-# HW02-A
+# HW02-B
 
-**This is a submission of Homework for Week 2 Part A.**
+**This is a submission of Homework for Week 2 Part B.**
 
-Replicating the Artwork by **Vera Molnár**
+Variation of the previous artwork the Artwork by **Vera Molnár** replicated by Nikhil
 
 Link:  
 [Vera Molnár Artwork - Icône](https://www.artnet.com/artists/vera-molnar/ic%C3%B4ne-rSNxbnnl9J_V8cbFkRNDBg2)
